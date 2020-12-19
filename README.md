@@ -19,12 +19,11 @@
 
 
 <!-- ABOUT THE PROJECT -->
-<h3 align="center">About </h3>
+## About The Project
 
 ![Product Name Screen Shot][product-screenshot]
- <p align="center">
-    I used Python for this basic game in part of 100 days of code.
-</p>
+
+I used Python for this basic game in part of 100 days of code.
 
 
 
