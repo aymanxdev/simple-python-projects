@@ -2,7 +2,7 @@ import random
 from replit import clear
 from art import logo
 
-print("Hello to Cards Game Simplifer \n")
+print("Hello to Cards Game Simplifer ♠️♣️♥️♦️\n")
 
 def card_deal():
   """ Returns a random card from the deck """
