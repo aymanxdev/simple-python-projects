@@ -11,7 +11,7 @@
   <h3 align="center">Simple Cards Game - Python 👨‍💻 </h3>
 
   <p align="center">
-    This is a simple cards game for starter to understand how probabilities work in Casinos 🎰 !
+    This is a simple cards game for beginners to understand how probabilities work in Casinos 🎰 !
 </p>
 
 
@@ -19,11 +19,12 @@
 
 
 <!-- ABOUT THE PROJECT -->
-## About The Project
+<h3 align="center">About </h3>
 
 ![Product Name Screen Shot][product-screenshot]
-
-I used Python for this basic game in part of 100 days of code.
+ <p align="center">
+    I used Python for this basic game in part of 100 days of code.
+</p>
 
 
 
