@@ -1,4 +1,4 @@
-# Simplified Cards Game ♦️ 
+# Basic and Simple Python Games 💻 
 
 [![LinkedIn][linkedin-shield]][linkedin-url]
 
@@ -8,10 +8,10 @@
 <p align="center">
  
 
-  <h3 align="center">Simple Cards Game - Python 👨‍💻 </h3>
+  <h3 align="center">Basic Games & Programs - Python 👨‍💻 </h3>
 
   <p align="center">
-    This is a simple cards game for beginners to understand how probabilities work in Casinos 🎰 !
+    This is a simple collection of Python programs that has a number of games that were created and targeted for beginners. Enjoy and feel free to add more to it or improve it! ☕️ 
 </p>
 
 
@@ -23,7 +23,7 @@
 
 ![Product Name Screen Shot][product-screenshot]
 
-I used Python for this basic game in part of 100 days of code.
+Python is used for this collection .
 
 
 
