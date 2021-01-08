@@ -18,7 +18,7 @@ while should_continue:
   n = int(input("Check this number: "))
   prime_checker(number=n)
 
-  option = input("Would you like to check another number, press 'y'").lower()
+  option = input("Would you like to check another number, press 'y' or 'n' to exit").lower()
 
   if option == "y":
     should_continue
