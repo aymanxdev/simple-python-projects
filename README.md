@@ -11,7 +11,7 @@
   <h3 align="center">Basic Games & Programs - Python 👨‍💻 </h3>
 
   <p align="center">
-    This is a simple collection of Python programs that has a number of games that were created and targeted for beginners. Enjoy and feel free to add more to it or improve it! ☕️ 
+    This is only a small part of everyday coding for a number of days. This collection is meant to get you started. 
 </p>
 
 
@@ -23,7 +23,9 @@
 
 ![Product Name Screen Shot][product-screenshot]
 
-Python is used for this collection .
+This is a simple collection of Python programs. Enjoy and feel free to add more to it or improve it! ☕️ 👨‍💻
+
+-Beginner Level-.
 
 
 
