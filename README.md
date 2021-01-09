@@ -38,7 +38,7 @@ Python is used for this collection .
 
 Ayman A.  - www.aymanx.io
 
-Link: [https://github.com/aymanxdev/simple-cards-game](https://github.com/aymanxdev/simple-cards-game)
+Link: [https://github.com/aymanxdev/simple-python-games](https://github.com/aymanxdev/simple-python-games)
 
 
 
@@ -47,4 +47,4 @@ Link: [https://github.com/aymanxdev/simple-cards-game](https://github.com/aymanx
 
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=flat-square&logo=linkedin&colorB=555
 [linkedin-url]: https://www.linkedin.com/in/ayman-io/
-[product-screenshot]: images/cards.jpeg
+[product-screenshot]: images/Why-Python-Is-Still-Better-Than-Other-Programming-Languages-1.png
