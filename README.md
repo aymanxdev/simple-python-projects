@@ -1,4 +1,4 @@
-# Basic and Simple Python Games 💻 
+# Simple Python Programs 💻 
 
 [![LinkedIn][linkedin-shield]][linkedin-url]
 
