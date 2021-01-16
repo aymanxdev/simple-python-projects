@@ -1,4 +1,4 @@
-# Basic and Simple Python Games 💻 
+# Basic and Friendly Python Projects 💻 
 
 [![LinkedIn][linkedin-shield]][linkedin-url]
 
@@ -8,7 +8,7 @@
 <p align="center">
  
 
-  <h3 align="center">Basic Games & Programs - Python 👨‍💻 </h3>
+  <h3 align="center">Basic Games & Programs in Python 👨‍💻 </h3>
 
   <p align="center">
     This is only a small part of everyday coding for a number of days. This collection is meant to get you started. 
@@ -23,9 +23,8 @@
 
 ![Product Name Screen Shot][product-screenshot]
 
-This is a simple collection of Python programs. Enjoy and feel free to add more to it or improve it! ☕️ 👨‍💻
+This is a simple collection of Python projects. Enjoy and feel free to add more to it or improve it
 
--Beginner Level-.
 
 
 
@@ -40,7 +39,7 @@ This is a simple collection of Python programs. Enjoy and feel free to add more 
 
 Ayman A.  - www.aymanx.io
 
-Link: [https://github.com/aymanxdev/simple-python-games](https://github.com/aymanxdev/simple-python-games)
+Link: [https://github.com/aymanxdev/simple-python-projects](https://github.com/aymanxdev/simple-python-projects)
 
 
 
