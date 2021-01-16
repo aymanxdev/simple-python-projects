@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 # Basic and Friendly Python Projects 💻 
+=======
+# Simple Python Programs 💻 
+>>>>>>> origin/main
 
 [![LinkedIn][linkedin-shield]][linkedin-url]
 
@@ -8,10 +12,10 @@
 <p align="center">
  
 
-  <h3 align="center">Basic Games & Programs in Python 👨‍💻 </h3>
+  <h3 align="center">Simplr Python Projects 👨‍💻 </h3>
 
   <p align="center">
-    This is only a small part of everyday coding for a number of days. This collection is meant to get you started. 
+    This is a small part of everyday coding for a number of days. This collection is meant to get you started as it is completely a great way to brush up on your coding skills and in addition to friendly comments. 
 </p>
 
 
