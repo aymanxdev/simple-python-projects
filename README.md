@@ -1,8 +1,6 @@
-<<<<<<< HEAD
+
 # Basic and Friendly Python Projects 💻 
-=======
-# Simple Python Programs 💻 
->>>>>>> origin/main
+
 
 [![LinkedIn][linkedin-shield]][linkedin-url]
 
