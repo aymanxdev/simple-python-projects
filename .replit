@@ -1,3 +1,3 @@
 language = "python3"
-run = "python turtles_race/main.py"
+run = "python snake_game/main.py"
 onBoot="echo Booting up!"
