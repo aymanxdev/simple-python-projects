@@ -3,7 +3,7 @@ import pandas as pd
 
 #Screen setup
 screen = Screen()
-screen.bgpic('/blank_states_img.gif')
+screen.bgpic('blank_states_img.gif')
 screen.setup(725, 491)
 screen.title("US States Guess Game")
 
@@ -17,17 +17,28 @@ states = data["state"].to_list()
 x = data.x.to_list()
 y = data.y.to_list()
 
-score = 0
 
+guessed_states = []
 
+while len(guessed_states) < 50:
+    answer = screen.textinput(title=f"Guess the state {guessed_states} / 50", prompt="What's another state's name?").title()
 
-while score != 50:
-    answer = screen.textinput(title=f"Guess the state {score} / 50", prompt="What's another state's name?")
+    if answer == "Exit":
+        states_list_left = []
+        for state in states:
+            if state not in guessed_states:
+                states_list_left.append(state)
+
+        df = pd.DataFrame(states_list_left)
+        df.to_csv("states_to_learn")
+        break
     if answer in states:
+        guessed_states.append(answer)
         state_data = data[data.state == answer]
         turtle.goto(int(state_data.x),int (state_data.y))
         turtle.write(answer)
-        score += 1
+
+
 
 
 
