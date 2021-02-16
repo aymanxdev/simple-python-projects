@@ -24,19 +24,15 @@ while len(guessed_states) < 50:
     answer = screen.textinput(title=f"Guess the state {guessed_states} / 50", prompt="What's another state's name?").title()
 
     if answer == "Exit":
-        states_list_left = []
-        for state in states:
-            if state not in guessed_states:
-                states_list_left.append(state)
-
-        df = pd.DataFrame(states_list_left)
-        df.to_csv("states_to_learn")
-        break
+      states_list_left = [state for state in states if state not in guessed_states]
+      df = pd.DataFrame(states_list_left)
+      df.to_csv("states_to_learn")
+      break
     if answer in states:
-        guessed_states.append(answer)
-        state_data = data[data.state == answer]
-        turtle.goto(int(state_data.x),int (state_data.y))
-        turtle.write(answer)
+      guessed_states.append(answer)
+      state_data = data[data.state == answer]
+      turtle.goto(int(state_data.x),int (state_data.y))
+      turtle.write(answer)
 
 
 
