@@ -1,3 +1,3 @@
 language = "python3"
-run = "python US_states_map_finder/main.py"
+run = "python units_calculator/main.py"
 onBoot="echo Booting up!"
