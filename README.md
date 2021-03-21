@@ -1,5 +1,5 @@
 
-# Basic and Friendly Python Projects 💻 
+# Simple and Friendly Python Programs  💻 
 
 
 [![LinkedIn][linkedin-shield]][linkedin-url]
