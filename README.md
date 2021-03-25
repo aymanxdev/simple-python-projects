@@ -10,7 +10,7 @@
 <p align="center">
  
 
-  <h3 align="center">Simple Python Projects 👨‍💻 </h3>
+  <h3 align="center">Simple Python Projects to Get You Started 👨‍💻 </h3>
 
   <p align="center">
     This is a small part of everyday coding for a number of days. This collection is meant to get you started as it is completely a great way to brush up on your coding skills and in addition to friendly comments. 
