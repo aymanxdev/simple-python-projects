@@ -43,6 +43,21 @@ Ayman A.  - www.aymanx.io
 
 Link: [https://github.com/aymanxdev/simple-python-projects](https://github.com/aymanxdev/simple-python-projects)
 
+| App Name   | Description  |
+| ------------- | ------------- |
+| Cards Game  | Content Cell  |
+| Leap Year Python  | Content Cell  |
+| Number Guessing Game  | Content Cell  |
+| Passwords Manager  | Content Cell  |
+| Ping Pong Game  | Content Cell  |
+| Prime Number | Content Cell  |
+| Quiz Game | Content Cell  |
+| Simple Auction Logic | Content Cell  |
+| Snake Game | Content Cell  |
+| Spelling Game Hangman| Content Cell  |
+| Spirograh Draw | Content Cell  |
+| Turtle Racing Game | Content Cell  |
+| Units Calculator | Content Cell  |
 
 
 
