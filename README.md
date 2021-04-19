@@ -46,9 +46,9 @@ Link: [https://github.com/aymanxdev/simple-python-projects](https://github.com/a
 | App Name   | Description  |
 | ------------- | ------------- |
 | Cards Game  | Content Cell  |
-| Leap Year Python  | Content Cell  |
+| Leap Year Python  | A leap year is a calendar year that contains an additional day added to keep the calendar year synchronised with the astronomical year or seasonal year.  |
 | Number Guessing Game  | Content Cell  |
-| Passwords Manager  | Content Cell  |
+| Passwords Manager  | A simple Python passwords generator - letters, numbers, and symbols  |
 | Ping Pong Game  | Content Cell  |
 | Prime Number | Content Cell  |
 | Quiz Game | Content Cell  |
