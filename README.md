@@ -49,9 +49,9 @@ Link: [https://github.com/aymanxdev/simple-python-projects](https://github.com/a
 | Leap Year Python  | A leap year is a calendar year that contains an additional day added to keep the calendar year synchronised with the astronomical year or seasonal year.  |
 | Number Guessing Game  | Content Cell  |
 | Passwords Manager  | A simple Python passwords generator - letters, numbers, and symbols  |
-| Ping Pong Game  | Content Cell  |
-| Prime Number | Content Cell  |
-| Quiz Game | Content Cell  |
+| Ping Pong Game  | This program uses Turtle to draw the paddles, ball and the background. Use this simple game is very interesting to understand Object Oriented Programming |
+| Prime Number | This is one of the most questions I get asked whenever there is a coding quiz. Prime numbers are numbers that have only 2 factors: 1 and themselves. For example, the first 5 prime numbers are 2, 3, 5, 7, and 11.  |
+| Quiz Game | In this application, the user gets ten questions, one at a time from a JSON file. User gets two two options, and the score gets calculated at the end and it also uses OOP  |
 | Simple Auction Logic | Content Cell  |
 | Snake Game | Content Cell  |
 | Spelling Game Hangman| Content Cell  |
