@@ -53,7 +53,7 @@ Link: [https://github.com/aymanxdev/simple-python-projects](https://github.com/a
 | Prime Number | This is one of the most questions I get asked whenever there is a coding quiz. Prime numbers are numbers that have only 2 factors: 1 and themselves. For example, the first 5 prime numbers are 2, 3, 5, 7, and 11.  |
 | Quiz Game | In this application, the user gets ten questions, one at a time from a JSON file. User gets two two options, and the score gets calculated at the end and it also uses OOP  |
 | Simple Auction Logic | Content Cell  |
-| Snake Game | Content Cell  |
+| Snake Game | Bringing back old phone memories, this was one of the most enjoyable games out there. Nowadays, it's almost nonexistent, for that reason I coded up a simple snake game using Turtle in Python, and quite helpful to understand more about OOP  |
 | Spelling Game Hangman| Content Cell  |
 | Spirograh Draw | Content Cell  |
 | Turtle Racing Game | Content Cell  |
