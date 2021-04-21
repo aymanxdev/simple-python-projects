@@ -55,7 +55,7 @@ Link: [https://github.com/aymanxdev/simple-python-projects](https://github.com/a
 | Simple Auction Logic | Content Cell  |
 | Snake Game | Bringing back old phone memories, this was one of the most enjoyable games out there. Nowadays, it's almost nonexistent, for that reason I coded up a simple snake game using Turtle in Python, and quite helpful to understand more about OOP  |
 | Spelling Game Hangman| It's an old-school game which can help one improve words spelling and expand vocabulary. The user gets an option to enter a letter or loses a point which all recorded in the game.   |
-| Spirograh Draw | Content Cell  |
+| Spirograh Draw | Add your own beautiful Spiro drawing using this application, you can customise it however you want and make it your own. It's also a great fun tool   |
 | Turtle Racing Game | Content Cell  |
 | Units Calculator | Content Cell  |
 
