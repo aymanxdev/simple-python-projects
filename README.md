@@ -45,7 +45,7 @@ Link: [https://github.com/aymanxdev/simple-python-projects](https://github.com/a
 
 | App Name   | Description  |
 | ------------- | ------------- |
-| Cards Game  | Blackjack is a card game that pits player versus dealer. It is played with one or more decks of cards. It's great to learn about ```while```loops and playing with the computer   |
+| Cards Game  | Blackjack is a card game that pits player versus dealer. It is played with one or more decks of cards. It's great to learn about ```while```loops and functions. Clone it and play with the computer   |
 | Leap Year Python  | A leap year is a calendar year that contains an additional day added to keep the calendar year synchronised with the astronomical year or seasonal year.  |
 | Number Guessing Game  | Content Cell  |
 | Passwords Manager  | A simple Python passwords generator - letters, numbers, and symbols  |
