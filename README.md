@@ -47,7 +47,7 @@ Link: [https://github.com/aymanxdev/simple-python-projects](https://github.com/a
 | ------------- | ------------- |
 | Cards Game  | Blackjack is a card game that pits player versus dealer. It is played with one or more decks of cards. It's great to learn about ```while```loops and functions. Clone it and play with the computer   |
 | Leap Year Python  | A leap year is a calendar year that contains an additional day added to keep the calendar year synchronised with the astronomical year or seasonal year.  |
-| Number Guessing Game  | Content Cell  |
+| Number Guessing Game  | In this game the computer will randomly generate a number and wait for the user guess, if not the same, the user gets multiple tries before losing the game, but if the user gets the correct answer then it's a win  |
 | Passwords Manager  | A simple Python passwords generator - letters, numbers, and symbols  |
 | Ping Pong Game  | This program uses Turtle to draw the paddles, ball and the background. Use this simple game is very interesting to understand Object Oriented Programming |
 | Prime Number | This is one of the most questions I get asked whenever there is a coding quiz. Prime numbers are numbers that have only 2 factors: 1 and themselves. For example, the first 5 prime numbers are 2, 3, 5, 7, and 11.  |
