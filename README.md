@@ -60,6 +60,7 @@ Link: [https://github.com/aymanxdev/simple-python-projects](https://github.com/a
 | Units Calculator | Content Cell  |
 
 
+Learn more about [`turtle`](https://docs.python.org/3/library/turtle.html#:~:text=The%20turtle%20module%20is%20an,)%20100%25%20compatible%20with%20it.) or [`tkinter`](https://docs.python.org/3/library/tkinter.html)
 
 <!-- MARKDOWN LINKS & IMAGES -->
 
