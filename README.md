@@ -52,11 +52,11 @@ Link: [https://github.com/aymanxdev/simple-python-projects](https://github.com/a
 | Ping Pong Game  | This program uses Turtle to draw the paddles, ball and the background. Use this simple game is very interesting to understand Object Oriented Programming |
 | Prime Number | This is one of the most questions I get asked whenever there is a coding quiz. Prime numbers are numbers that have only 2 factors: 1 and themselves. For example, the first 5 prime numbers are 2, 3, 5, 7, and 11.  |
 | Quiz Game | In this application, the user gets ten questions, one at a time from a JSON file. User gets two two options, and the score gets calculated at the end and it also uses OOP  |
-| Simple Auction Logic | Content Cell  |
+| Simple Auction Logic | This is rather quite a basic program to get inputs and keep the loop going unless stopped, after that provide the person with the highest bid |
 | Snake Game | Bringing back old phone memories, this was one of the most enjoyable games out there. Nowadays, it's almost nonexistent, for that reason I coded up a simple snake game using Turtle in Python, and quite helpful to understand more about OOP  |
 | Spelling Game Hangman| It's an old-school game which can help one improve words spelling and expand vocabulary. The user gets an option to enter a letter or loses a point which all recorded in the game.   |
 | Spirograh Draw | Add your own beautiful Spiro drawing using this application, you can customise it however you want and make it your own. It's also a great fun tool   |
-| Turtle Racing Game | Content Cell  |
+| Turtle Racing Game | This is a must play super simple game built with `Turtle()` Turtles are in different colours race to reach the end of the screen.   |
 | Units Calculator | Content Cell  |
 
 
