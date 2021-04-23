@@ -56,7 +56,7 @@ Link: [https://github.com/aymanxdev/simple-python-projects](https://github.com/a
 | Snake Game | Bringing back old phone memories, this was one of the most enjoyable games out there. Nowadays, it's almost nonexistent, for that reason I coded up a simple snake game using Turtle in Python, and quite helpful to understand more about OOP  |
 | Spelling Game Hangman| It's an old-school game which can help one improve words spelling and expand vocabulary. The user gets an option to enter a letter or loses a point which all recorded in the game.   |
 | Spirograh Draw | Add your own beautiful Spiro drawing using this application, you can customise it however you want and make it your own. It's also a great fun tool   |
-| Turtle Racing Game | This is a must play super simple game built with `Turtle()` Turtles are in different colours race to reach the end of the screen.   |
+| Turtle Racing Game | This is a must play super simple game built with `Turtle()`module. Turtles are in different colours race to reach the end of the screen.   |
 | Units Calculator | Content Cell  |
 
 
