@@ -57,7 +57,7 @@ Link: [https://github.com/aymanxdev/simple-python-projects](https://github.com/a
 | Spelling Game Hangman| It's an old-school game which can help one improve words spelling and expand vocabulary. The user gets an option to enter a letter or loses a point which all recorded in the game.   |
 | Spirograh Draw | Add your own beautiful Spiro drawing using this application, you can customise it however you want and make it your own. It's also a great fun tool   |
 | Turtle Racing Game | This is a must play super simple game built with `Turtle()`module. Turtles are in different colours race to reach the end of the screen.   |
-| Units Calculator | Content Cell  |
+| Units Calculator | I enjoyed building this simple BMI calculator and units converto. I still want to add more units and would love to see more people add to it.  |
 
 
 Learn more about [`turtle`](https://bit.ly/3vcRBfG) or [`tkinter`](https://docs.python.org/3/library/tkinter.html)
