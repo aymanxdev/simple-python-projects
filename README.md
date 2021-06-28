@@ -13,7 +13,7 @@
   <h3 align="center">Simple Python Projects to Get You Started 👨‍💻 </h3>
 
   <p align="center">
-    This is a small part of everyday coding exercise for a number of days. This collection is meant to get one started as it is completely a great way to brush up on coding skills and algorithms. 
+    Part of a number brilliant yet easy to understand programs. This collection is meant to get one started as it is completely a great way to brush up on coding skills and algorithms. 
 </p>
 
 
@@ -58,7 +58,7 @@ Link: [https://github.com/aymanxdev/simple-python-projects](https://github.com/a
 | Spirograh Draw | Add your own beautiful Spiro drawing using this application, you can customise it however you want and make it your own. It's also a great fun tool   |
 | Turtle Racing Game | This is a must play super simple game built with `Turtle()`module. Turtles are in different colours race to reach the end of the screen.   |
 | Units Calculator | I enjoyed building this simple BMI calculator and units converto. I still want to add more units and would love to see more people add to it.  |
-| Events Email Helper | This program for busy people who tend to forget events dates or even birthdays. It will help you to schedule birthday letter to send it on a pre-scheduled date which could save you time and lots of embarrassment 🙈  |
+| Events Email Helper | This program for busy people who tend to forget events dates or even birthdays. It will help you to schedule birthday letter to send it on a pre-scheduled date which could save you time and lots of embarrassment. 🙈  |
 
 Learn more about [`turtle`](https://bit.ly/3vcRBfG) or [`tkinter`](https://docs.python.org/3/library/tkinter.html)
 
