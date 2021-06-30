@@ -18,6 +18,8 @@ if today in new_dict:
         contents = letter_file.read()
         contents= contents.replace("[NAME]", birthday_person["name"])
 
+# [NAME] is what will be replaced in the letter we want to send. 
+
     with smtplib.SMTP("smtp.gmail.com") as connection:
         connection.starttls()
         connection.login(user=my_email, password=my_password)
