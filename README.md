@@ -59,6 +59,7 @@ Link: [https://github.com/aymanxdev/simple-python-projects](https://github.com/a
 | Turtle Racing Game | This is a must play super simple game built with `Turtle()`module. Turtles are in different colours race to reach the end of the screen.   |
 | Units Calculator | I enjoyed building this simple BMI calculator and units converto. I still want to add more units and would love to see more people add to it.  |
 | Events Email Helper | This program for busy people who tend to forget events dates or even birthdays. It will help you to schedule birthday letter to send it on a pre-scheduled date which could save time and lots of embarrassment. 🙈  |
+| Weather API | To be added  |
 
 Learn more about [`turtle`](https://bit.ly/3vcRBfG) or [`tkinter`](https://docs.python.org/3/library/tkinter.html)
 
