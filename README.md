@@ -34,6 +34,7 @@ This is a simple collection of Python projects. Enjoy and feel free to add more 
 
 * [Python](https://www.python.org/)
 * [Repl.it](https://repl.it/~)
+* [PyCharm IDE](https://www.jetbrains.com/pycharm/)
 
 
 <!-- CONTACT -->
