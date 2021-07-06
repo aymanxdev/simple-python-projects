@@ -60,7 +60,7 @@ Link: [https://github.com/aymanxdev/simple-python-projects](https://github.com/a
 | Turtle Racing Game | This is a must play super simple game built with `Turtle()`module. Turtles are in different colours race to reach the end of the screen.   |
 | Units Calculator | I enjoyed building this simple BMI calculator and units converto. I still want to add more units and would love to see more people add to it.  |
 | Events Email Helper | This program for busy people who tend to forget events dates or even birthdays. It will help you to schedule birthday letter to send it on a pre-scheduled date which could save time and lots of embarrassment. 🙈  |
-| Weather API | To be added  |
+| Sunset Reminder | This app uses two APIs, [Open Notify](http://api.open-notify.org) and [Sunset and sunrise times API](https://api.sunrise-sunset.org) both integrate nicely in making an app that detects when it's in the space and night time then it will automatically send you an email |
 
 Learn more about [`turtle`](https://bit.ly/3vcRBfG) or [`tkinter`](https://docs.python.org/3/library/tkinter.html)
 
