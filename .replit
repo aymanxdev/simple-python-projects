@@ -1,3 +1,7 @@
 language = "python3"
+<<<<<<< HEAD
 run = "python cards-game/main.py"
+=======
+run = "python units_calculator/main.py"
+>>>>>>> f056ce5512fde2b7f7c5bb1d73e8732e0af72b1e
 onBoot="echo Booting up!"

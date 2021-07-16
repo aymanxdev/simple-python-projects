@@ -8,7 +8,10 @@ authors = ["repl.it user <replituser@example.com>"]
 python = "^3.8"
 replit = "^2.0.0"
 pandas = "^1.2.2"
+<<<<<<< HEAD
 pyperclip = "^1.8.2"
+=======
+>>>>>>> f056ce5512fde2b7f7c5bb1d73e8732e0af72b1e
 
 [tool.poetry.dev-dependencies]
 
