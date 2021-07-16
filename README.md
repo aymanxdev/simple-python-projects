@@ -1,9 +1,7 @@
 
-<<<<<<< HEAD
-# Basic and Friendly Python Projects 💻 
-=======
-# Simple and Friendly Python Programs  💻 
->>>>>>> f056ce5512fde2b7f7c5bb1d73e8732e0af72b1e
+
+
+# Simple and Interesting Python Applications  💻 
 
 
 [![LinkedIn][linkedin-shield]][linkedin-url]
@@ -12,19 +10,11 @@
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
- 
-
-<<<<<<< HEAD
-  <h3 align="center">Simple Python Projects 👨‍💻 </h3>
+   <h3 align="center">Simple Python Projects to Get You Started 👨‍💻 </h3>
 
   <p align="center">
-    This is a small part of everyday coding for a number of days. This collection is meant to get you started as it is completely a great way to brush up on your coding skills and in addition to friendly comments. 
-=======
-  <h3 align="center">Simple Python Projects to Get You Started 👨‍💻 </h3>
+    Part of brilliant yet easy to understand programs. This collection is meant to get one started as it is completely a great way to brush up on coding skills and algorithms. 
 
-  <p align="center">
-    Part of a number brilliant yet easy to understand programs. This collection is meant to get one started as it is completely a great way to brush up on coding skills and algorithms. 
->>>>>>> f056ce5512fde2b7f7c5bb1d73e8732e0af72b1e
 </p>
 
 
@@ -36,7 +26,7 @@
 
 ![Product Name Screen Shot][product-screenshot]
 
-This is a simple collection of Python projects. Enjoy and feel free to add more to it or improve it
+This is a an interesting collection of Python projects that I keep adding to it from time to time. Enjoy and feel free to add more to it or improve it. My ultimate goal with this collection is to have a massive list of fantastic small programmes are used as learning reference. Enjoy 😉 
 
 
 
@@ -45,10 +35,7 @@ This is a simple collection of Python projects. Enjoy and feel free to add more 
 
 * [Python](https://www.python.org/)
 * [Repl.it](https://repl.it/~)
-<<<<<<< HEAD
-=======
 * [PyCharm IDE](https://www.jetbrains.com/pycharm/)
->>>>>>> f056ce5512fde2b7f7c5bb1d73e8732e0af72b1e
 
 
 <!-- CONTACT -->
@@ -58,7 +45,6 @@ Ayman A.  - www.aymanx.io
 
 Link: [https://github.com/aymanxdev/simple-python-projects](https://github.com/aymanxdev/simple-python-projects)
 
-<<<<<<< HEAD
 
 
 =======
@@ -82,7 +68,6 @@ Link: [https://github.com/aymanxdev/simple-python-projects](https://github.com/a
 |Tkinter Quizzler | This is an improved version of the Quiz app that built earlier and uses the console. This version using beautiful UI and fetch data from an incredibly sourceful API  |
 
 Learn more about [`turtle`](https://bit.ly/3vcRBfG) or [`tkinter`](https://docs.python.org/3/library/tkinter.html)
->>>>>>> f056ce5512fde2b7f7c5bb1d73e8732e0af72b1e
 
 <!-- MARKDOWN LINKS & IMAGES -->
 
