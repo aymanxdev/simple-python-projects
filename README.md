@@ -38,15 +38,6 @@ This is a an interesting collection of Python projects that I keep adding to it 
 * [PyCharm IDE](https://www.jetbrains.com/pycharm/)
 
 
-<!-- CONTACT -->
-## Contact
-
-Ayman A.  - www.aymanx.io
-
-Link: [https://github.com/aymanxdev/simple-python-projects](https://github.com/aymanxdev/simple-python-projects)
-
-
-
 
 | App Name   | Description  |
 | ------------- | ------------- |
@@ -68,6 +59,13 @@ Link: [https://github.com/aymanxdev/simple-python-projects](https://github.com/a
 |Tkinter Quizzler | This is an improved version of the Quiz app that built earlier and uses the console. This version using beautiful UI and fetch data from an incredibly sourceful API  |
 
 Learn more about [`turtle`](https://bit.ly/3vcRBfG) or [`tkinter`](https://docs.python.org/3/library/tkinter.html)
+
+
+<!-- CONTACT -->
+## Contact
+
+[aymanx.io](https://www.aymanx.io)
+
 
 <!-- MARKDOWN LINKS & IMAGES -->
 
