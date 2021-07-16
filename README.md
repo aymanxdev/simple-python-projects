@@ -47,7 +47,7 @@ Link: [https://github.com/aymanxdev/simple-python-projects](https://github.com/a
 
 
 
-=======
+
 | App Name   | Description  |
 | ------------- | ------------- |
 | Cards Game  | Blackjack is a card game that pits player versus dealer. It is played with one or more decks of cards. It's great to learn about ```while```loops and functions. Clone it and play with the computer   |
