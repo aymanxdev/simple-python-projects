@@ -44,12 +44,12 @@ This is a an interesting collection of Python projects that I keep adding to it 
 | [Cards Game](cards-game)  | Blackjack is a card game that pits player versus dealer. It is played with one or more decks of cards. It's great to learn about ```while```loops and functions. Clone it and play with the computer   |
 | [Leap Year Python](leap-year-python)  | A leap year is a calendar year that contains an additional day added to keep the calendar year synchronised with the astronomical year or seasonal year.  |
 | [Number Guessing Game](number-guessing-game)  | In this game the computer will randomly generate a number and wait for the user guess, if not the same, the user gets multiple tries before losing the game, but if the user gets the correct answer then it's a win  |
-| Passwords Manager  | A simple Python passwords generator - letters, numbers, and symbols  |
-| Ping Pong Game  | This program uses Turtle to draw the paddles, ball and the background. Use this simple game is very interesting to understand Object Oriented Programming |
-| Prime Number | This is one of the most questions I get asked whenever there is a coding quiz. Prime numbers are numbers that have only 2 factors: 1 and themselves. For example, the first 5 prime numbers are 2, 3, 5, 7, and 11.  |
-| Quiz Game | In this application, the user gets ten questions, one at a time from a JSON file. User gets two two options, and the score gets calculated at the end and it also uses OOP  |
-| Simple Auction Logic | This is rather quite a basic program to get inputs and keep the loop going unless stopped, after that provide the person with the highest bid |
-| Snake Game | Bringing back old phone memories, this was one of the most enjoyable games out there. Nowadays, it's almost nonexistent, for that reason I coded up a simple snake game using Turtle in Python, and quite helpful to understand more about OOP  |
+| [Passwords Manager](password-manager)  | A simple Python passwords generator - letters, numbers, and symbols  |
+| [Ping Pong Game](ping-pong-game)  | This program uses Turtle to draw the paddles, ball and the background. Use this simple game is very interesting to understand Object Oriented Programming |
+| [Prime Number](prime-number-python) | This is one of the most questions I get asked whenever there is a coding quiz. Prime numbers are numbers that have only 2 factors: 1 and themselves. For example, the first 5 prime numbers are 2, 3, 5, 7, and 11.  |
+| [Quiz Game](quiz-game) | In this application, the user gets ten questions, one at a time from a JSON file. User gets two two options, and the score gets calculated at the end and it also uses OOP  |
+| [Simple Auction Logic](simple-auction-logic) | This is rather quite a basic program to get inputs and keep the loop going unless stopped, after that provide the person with the highest bid |
+| [Snake Game](snake_game) | Bringing back old phone memories, this was one of the most enjoyable games out there. Nowadays, it's almost nonexistent, for that reason I coded up a simple snake game using Turtle in Python, and quite helpful to understand more about OOP  |
 | Spelling Game Hangman| It's an old-school game which can help one improve words spelling and expand vocabulary. The user gets an option to enter a letter or loses a point which all recorded in the game.   |
 | Spirograh Draw | Add your own beautiful Spiro drawing using this application, you can customise it however you want and make it your own. It's also a great fun tool   |
 | Turtle Racing Game | This is a must play super simple game built with `Turtle()`module. Turtles are in different colours race to reach the end of the screen.   |
