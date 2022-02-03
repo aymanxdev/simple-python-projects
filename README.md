@@ -56,7 +56,7 @@ This is an interesting collection of Python scripts that I keep adding to it eve
 | [Units Calculator](units_calculator) | I enjoyed building this simple BMI calculator and units converto. I still want to add more units and would love to see more people add to it.  |
 | [Events Email Notification](auto-email-sender) | This program for busy people who tend to forget events dates or even birthdays. It will help you to schedule birthday letter to send it on a pre-scheduled date which could save time and lots of embarrassment. 🙈  |
 | [Sunset Reminder](sunset-reminder) | This app uses two APIs, [Open Notify](http://api.open-notify.org) and [Sunset and sunrise times API](https://api.sunrise-sunset.org) both integrate nicely in making an app that detects when it's in the space and night time then it will automatically send you an email |
-|Tkinter Quizzler | This is an improved version of the Quiz app that built earlier and uses the console. This version using beautiful UI and fetch data from an incredibly sourceful API  |
+|[Tkinter Quizzler](quizzler-v2) | This is an improved version of the Quiz app that built earlier and uses the console. This version using beautiful UI and fetch data from an incredibly sourceful API  |
 
 Learn more about [`turtle`](https://bit.ly/3vcRBfG) or [`tkinter`](https://docs.python.org/3/library/tkinter.html)
 
