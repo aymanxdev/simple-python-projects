@@ -26,7 +26,7 @@
 
 ![Product Name Screen Shot][product-screenshot]
 
-This is a an interesting collection of Python projects that I keep adding to it from time to time. Enjoy and feel free to add more to it or improve it. My ultimate goal with this collection is to have a massive list of fantastic small programmes are used as learning reference. Enjoy 😉 
+This is an interesting collection of Python scripts that I keep adding to it every now and then. Enjoy and feel free to add more to it or improve it. My ultimate goal with this collection is to have a large list of fantastic small programmes that could be used as learning reference or an add-on to a fun project. Enjoy 😉 
 
 
 
