@@ -41,7 +41,7 @@ This is a an interesting collection of Python projects that I keep adding to it 
 
 | App Name   | Description  |
 | ------------- | ------------- |
-| Cards Game  | Blackjack is a card game that pits player versus dealer. It is played with one or more decks of cards. It's great to learn about ```while```loops and functions. Clone it and play with the computer   |
+| [Cards Game](cards-game)  | Blackjack is a card game that pits player versus dealer. It is played with one or more decks of cards. It's great to learn about ```while```loops and functions. Clone it and play with the computer   |
 | Leap Year Python  | A leap year is a calendar year that contains an additional day added to keep the calendar year synchronised with the astronomical year or seasonal year.  |
 | Number Guessing Game  | In this game the computer will randomly generate a number and wait for the user guess, if not the same, the user gets multiple tries before losing the game, but if the user gets the correct answer then it's a win  |
 | Passwords Manager  | A simple Python passwords generator - letters, numbers, and symbols  |
