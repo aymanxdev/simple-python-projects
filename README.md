@@ -13,7 +13,7 @@
    <h3 align="center">Simple Python Projects to Get You Started 👨‍💻 </h3>
 
   <p align="center">
-    Part of brilliant yet easy to understand programs. This collection is meant to get one started as it is completely a great way to brush up on coding skills and algorithms. 
+    Part of brilliant yet easy to understand programs. This collection is meant to get one started as it is completely a great way to learn or brush up on coding skills and algorithms. 
 
 </p>
 
