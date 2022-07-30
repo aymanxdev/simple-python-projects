@@ -4,8 +4,6 @@
 # A List of Simple and Interesting Python Scripts  💻 
 
 
-[![LinkedIn][linkedin-shield]][linkedin-url]
-
 
 <!-- PROJECT LOGO -->
 <br />
